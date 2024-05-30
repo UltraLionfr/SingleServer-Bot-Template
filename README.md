@@ -1,6 +1,9 @@
 ---
 # Discord.js Bot Template ^v14.15.2 🎉
 
+[![GitHub stars](https://img.shields.io/github/stars/UltraLionfr/SingleServer-Bot-Template.svg?style=social&label=Stars&style=flat)]([https://github.com/UltraLionfr/SingleServer-Bot-Template/stargazers](https://github.com/UltraLionfr/SingleServer-Bot-Template))
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]([https://opensource.org/licenses/MIT](https://github.com/UltraLionfr/SingleServer-Bot-Template/blob/main/LICENSE))
+[![PrivacyPolicy](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ultralion.xyz)
 
 Welcome to the Discord Bot Template! This template is designed to help you quickly set up a Discord bot using `discord.js` version 14.15.2. 🚀 This bot is configured to operate exclusively on a single Discord server, making it perfect for community management and more! 🎈
 
