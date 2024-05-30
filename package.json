@@ -1,0 +1,17 @@
+{
+  "name": "simple-template-bot",
+  "version": "1.0.0",
+  "description": "Simple discord bot template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "template",
+    "v14"
+  ],
+  "author": "UltraLion",
+  "license": "ISC"
+}
